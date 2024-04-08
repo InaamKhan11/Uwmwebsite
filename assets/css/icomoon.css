@@ -233,3 +233,11 @@
 .icon-minus:before {
   content: "\e931";
 }
+
+.icon-industry:before {
+  content: "\e900";
+}
+
+.icon-office1:before {
+  content: "\e903";
+}
